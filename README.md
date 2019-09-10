@@ -1,2 +1,2 @@
 # DSP
-Some jupyter notebooks related to digital signal processing 
+Some jupyter notebooks related to Digital Signal Processing 
